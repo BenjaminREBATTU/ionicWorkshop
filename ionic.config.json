@@ -1,0 +1,7 @@
+{
+  "name": "workshopIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
